@@ -1,0 +1,11 @@
+{
+    "tenant_id": "",
+    "client_id": "",
+    "client_secret": "",
+    "openai_endpoint": "",
+    "model_name": "",
+    "deployment_name": "",
+    "openai_api_version": "2023-03-15-preview",
+    "temperature": 0,
+    "max_tokens": 50
+  }

@@ -1,0 +1,1 @@
+These two sample code illustrates how to implement an Oauth2 Client Credentials flow with both Semantic Kernel and Langchain.
