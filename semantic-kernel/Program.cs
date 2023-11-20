@@ -20,7 +20,7 @@ var builder = new KernelBuilder();
 
 builder.WithAzureChatCompletionService(
     configuration["deploymentName"] ?? throw new ArgumentNullException(),
-    configuration["OpenAiEndpoint"] ?? throw new ArgumentNullException(),
+    configuration["openAiEndpoint"] ?? throw new ArgumentNullException(),
     new AccessTokenCredential(accessToken)       
         );            
 
